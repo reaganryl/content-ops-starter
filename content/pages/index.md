@@ -9,9 +9,29 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      +/- 12 acres available on Highway 82 on the west side of Paris, TX. 
+
+
+      This property is currently zoned for Agriculture and the city has
+      indicated the possibility of Commercial and dense Single Family rezoning
+      or other denser planned development. 
+
+
+      It is in close proximity to the new TxDOT regional offices, DMV,
+      Campbell's Soup, Kimberly Clark, Subway Sandwich, CEFCO.
+
+
+      The original Lightfoot-designed Midcentury Modern House is ready for you
+      to restore as desired. There are many options for this beautiful site,
+      whether residential, or commercial. 
+
+
+
+
+      $500,000
+
+
+      LCAD #21038
     actions:
       - label: Get started
         altText: ''
