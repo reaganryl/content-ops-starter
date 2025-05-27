@@ -34,7 +34,7 @@ sections:
       LCAD #21038
     actions:
       - label: INFO REQUEST
-        altText: ''
+        altText: contact us
         url: /
         showIcon: true
         icon: arrowRight
