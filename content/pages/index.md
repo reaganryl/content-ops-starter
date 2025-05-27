@@ -80,7 +80,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title:
-      text: CONTACT US HERE OR text 9037840308
+      text: CONTACT US HERE
       color: text-dark
       type: TitleBlock
     subtitle: or text (903) 784-0308
