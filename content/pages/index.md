@@ -83,7 +83,7 @@ sections:
       text: CONTACT
       color: text-dark
       type: TitleBlock
-    subtitle: or text/vmail (903) 784-0308
+    subtitle: text/vmail (903) 784-0308
     text: ''
     colors: bg-neutral-fg-dark
     type: GenericSection
