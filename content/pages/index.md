@@ -83,7 +83,7 @@ sections:
       text: CONTACT
       color: text-dark
       type: TitleBlock
-    subtitle: 'or text <a href="tel:555-555-5555">555-555-5555</a> (903) 784-0308'
+    subtitle: or text (903) 784-0308
     text: ''
     media:
       fields:
