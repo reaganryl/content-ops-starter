@@ -84,7 +84,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: text/vmail (903) 784-0308
-    text: ''
+    text: |+
+      `<a href="tel:903-784-0308">903-784-0308</a>`
+
+
+
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
