@@ -57,7 +57,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 12ON82
       color: text-primary
       type: Badge
     elementId: ''
