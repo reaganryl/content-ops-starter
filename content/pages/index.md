@@ -83,7 +83,7 @@ sections:
       text: CONTACT
       color: text-dark
       type: TitleBlock
-    subtitle: or text (903) 784-0308
+    subtitle: or text/vmail (903) 784-0308
     text: ''
     media:
       fields:
