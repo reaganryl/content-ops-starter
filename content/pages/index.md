@@ -7,7 +7,7 @@ sections:
       text: 4100 Bonham
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: your future site
     text: >
       +/- 12 acres available on Highway 82 on the west side of Paris, TX. 
 
