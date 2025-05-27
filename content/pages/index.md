@@ -83,7 +83,7 @@ sections:
       text: CONTACT US HERE OR text 9037840308
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: or text (903) 784-0308
     text: ''
     media:
       fields:
