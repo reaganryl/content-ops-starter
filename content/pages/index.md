@@ -62,7 +62,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 12 on 82
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
