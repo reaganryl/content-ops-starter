@@ -82,7 +82,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title:
-      text: ''
+      text: CONTACT US
       color: text-dark
       type: TitleBlock
     subtitle: ''
