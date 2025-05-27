@@ -112,7 +112,7 @@ sections:
           label: Name
           hideLabel: true
           placeholder: Your Phone Number
-          isRequired: true
+          isRequired: false
           width: full
       elementId: contact-form
       styles:
