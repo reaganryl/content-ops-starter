@@ -87,6 +87,12 @@ sections:
     text: |+
       `<a href="tel:903-784-0308">903-784-0308</a>`
 
+      ```
+      <a href="mailto:rjr@tutamail.com">Email - rjr@tutamail.com</a>
+      ```
+
+
+
 
 
     colors: bg-neutral-fg-dark
