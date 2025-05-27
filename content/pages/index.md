@@ -94,13 +94,6 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - type: TextFormControl
           name: 'phone #'
           label: Name
@@ -108,6 +101,13 @@ sections:
           placeholder: Your Phone Number
           isRequired: true
           width: full
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
