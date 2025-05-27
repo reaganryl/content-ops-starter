@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: your future home
     text: >
-      +/- 12 acres available on Highway 82 on the west side of Paris, TX. 
+      +/- 12 acres available on Highway 82 on the west side of Paris, TX.
 
 
       This property is currently zoned for Agriculture and the city has
       indicated the possibility of Commercial and dense Single Family rezoning
-      or other denser planned development. 
+      or other denser planned development.
 
 
       It is in close proximity to the new TxDOT regional offices, DMV,
@@ -22,10 +22,8 @@ sections:
 
 
       The original Lightfoot-designed Midcentury Modern House is ready for you
-      to restore as desired. There are many options for this beautiful site,
-      whether residential, or commercial. 
-
-
+      to restore as desired. There are many options for this beautiful 1/3
+      wooded site, whether residential, or commercial.
 
 
       $500,000
