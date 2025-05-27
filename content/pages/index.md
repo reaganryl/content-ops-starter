@@ -33,7 +33,7 @@ sections:
 
       LCAD #21038
     actions:
-      - label: See Tutorials
+      - label: INFO REQUEST
         altText: ''
         url: /
         showIcon: true
