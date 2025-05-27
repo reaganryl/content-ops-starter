@@ -111,7 +111,7 @@ sections:
           name: 'phone #'
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your Phone Number
           isRequired: true
           width: full
       elementId: contact-form
