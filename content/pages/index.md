@@ -80,7 +80,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title:
-      text: CONTACT US
+      text: CONTACT US HERE OR text 9037840308
       color: text-dark
       type: TitleBlock
     subtitle: ''
