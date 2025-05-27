@@ -579,7 +579,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Contact for More Info
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: ''
